@@ -1,0 +1,181 @@
+# Sleep itinerary — Madeira 6–19 September 2026
+
+Each row is **where we sleep that night**. Crossing skeleton from the [Traileasy GR1 E→W plan](https://app.traileasy.com/itinerary/69ec121a-c7b2-4d1a-9304-9f78c1259630?trailId=a9c8eeec-bdcc-47f3-8fed-5fcf70d98ed6) (11–16 Sep). Lodging checked live **22 Aug 2026**. CAD at **~1.60 CAD/EUR** (Marques studio €138 = $221 CAD). 2 adults, min 2 beds, prefer 2 rooms.
+
+Checkout of Funchal is **11 Sep morning**. The crossing starts that day.
+
+**Recommended bases (2-night stays highlighted):** Porto da Cruz 11 · **Santana 12–13** · **coast 14** (taxi in/out) · Chão da Ribeira 15 · **Porto Moniz 16 only** · **Funchal 17–18** (checkout Sat 19 morning). Cottage Rabaçal = backup.
+
+
+| Night      | City              | Status   | Place / options                                                                                                                                                                                                                                                                 |
+| ---------- | ----------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sun 6 Sep  | Funchal           | Booked   | [Magnolia Residence](https://www.booking.com/hotel/pt/magnolia-residence.fr.html?checkin=2026-09-06&checkout=2026-09-11) (2 rooms). Check-in. **Aerobus 500** airport → Lido (see [Buses](#buses-to-hotels)).                                                                    |
+| Mon 7 Sep  | Funchal           | Booked   | Magnolia Residence                                                                                                                                                                                                                                                              |
+| Tue 8 Sep  | Funchal           | Booked   | Magnolia Residence                                                                                                                                                                                                                                                              |
+| Wed 9 Sep  | Funchal           | Booked   | Magnolia Residence                                                                                                                                                                                                                                                              |
+| Thu 10 Sep | Funchal           | Booked   | Magnolia Residence (last night; checkout 11 Sep)                                                                                                                                                                                                                                |
+| Fri 11 Sep | Porto da Cruz     | Unbooked | Two 2-bed candidates (see notes): [Marques studio](https://www.booking.com/hotel/pt/marques-studio.html) ($221 CAD) or [Airbnb Paulo](https://www.airbnb.ca/rooms/1608813018791173064?adults=2&check_in=2026-09-11&check_out=2026-09-12) (**$229 CAD** total) ← top pick. **008** Magnolia → Centro, **701** → Machico, then walk Larano (or **826/827** all the way to PdC). |
+| Sat 12 Sep | **Santana** (2-night) | Unbooked | **Book 12–14 (checkout Mon 14).** Top pick: [Casa do Til](https://www.booking.com/hotel/pt/casa-do-til-santana.html) twin + breakfast **$224 CAD** (€140 incl taxes). 2-room alt: [Casa Os Manos](https://www.booking.com/hotel/pt/casa-os-manos.html) 2× singles **$525 CAD**. After PR10: **850** Ribeiro Frio **14:13** or **18:40** → Santana/Faial. |
+| Sun 13 Sep | **Santana** (same)    | Unbooked | Same booking as the 12th. PR1 last open day: taxi to Areeiro, one-way to Ruivo; return here. Do **not** go Santo da Serra / Poiso (no bus ER 202).                                                                                                                              |
+| Mon 14 Sep | **Coast** (Prazeres / Calheta / Jardim) | Unbooked | **Plan A: town + 2 taxis.** [Airbnb Prazeres](https://www.airbnb.ca/rooms/1718898567563748116?adults=2&check_in=2026-09-14&check_out=2026-09-15) **$164** or [Jardim Atlântico](https://www.booking.com/hotel/pt/jardim-atlantico-calheta.html) **$237**. After PR6: shuttle **up before 18:00**, taxi ER 105 → hotel. Tue 07:00–07:30 taxi hotel → **ER 105 car park** (not cottage door), walk down 20–40 min. **Backup:** [Nature Spot Cottage](https://www.booking.com/hotel/pt/rabacal-nature-spot-cottage.html) twin + half board **$506** refundable. |
+| Tue 15 Sep | Chão da Ribeira   | Unbooked | **[Mini-house (Xavier)](https://www.airbnb.ca/rooms/1254987563909259224?adults=2&check_in=2026-09-15&check_out=2026-09-16)** 2 beds **$201 CAD**. On PR13 / 5 min to Fanal trail. **Arrive on foot** (no bus into the valley). Casa da Nogueira not on Booking.                 |
+| Wed 16 Sep | **Porto Moniz** (1-night) | Unbooked | **Book 16–17 only.** Costa Azul / Ribeirinho = **2-night min** — skip. Town: [The Jolie](https://www.booking.com/hotel/pt/the-jolie-apartments-by-the-ocean.html?checkin=2026-09-16&checkout=2026-09-17) ~**$167** or Euro Moniz ~**$252**. Walk in from Fanal. Checkout **Thu 17 morning** bus to Funchal. |
+| Thu 17 Sep | **Funchal** (2-night)     | Unbooked | **Book 17–19 (checkout Sat 19 morning).** Magnolia likely still tight. [Bella Vista](https://www.booking.com/hotel/pt/apartamento-hospital-velho.html?checkin=2026-09-17&checkout=2026-09-19) or [Alto Lido](https://www.booking.com/hotel/pt/alto-lido.html?checkin=2026-09-17&checkout=2026-09-19) if the flight is early (Aerobus stop 15). ~**$320–420** for 2 nights — recheck. Morning bus from PM. |
+| Fri 18 Sep | **Funchal**               | Unbooked | Same 17–19 booking. Last night. Recovery — no second PR1. Fly **Sat 19 morning**. |
+
+
+## Buses to hotels
+
+Official source is **[SIGA horários](https://siga.madeira.gov.pt/horarios)** (PDF per line). Trip planner: [sigadev.imt.madeira.gov.pt](https://sigadev.imt.madeira.gov.pt/). Lines were renumbered in 2024–26 — a bus may still show the old number on the destination board.
+
+Times below are from those PDFs (checked 22 Aug 2026). Re-open the linked PDF the day before you travel; some CAM trips are school-period only.
+
+
+| Night | Hotel | Take this | Official timetable |
+| --- | --- | --- | --- |
+| **6 Sep** (Sun, arrival) | Magnolia Residence, Lido / Rua Dr. Pita | **Aerobus 500** airport → **Lido (stop 15)**, ~38 min, then ~10 min walk uphill | [Aerobus page](https://siga.madeira.gov.pt/aerobus) · [route PDF](https://siga.madeira.gov.pt/img/aerobus/aerobus_1.pdf) · [times PDF](https://siga.madeira.gov.pt/img/aerobus/aerobus_2.pdf) (from 1 Apr 2026) · [airport](https://www.aeroportomadeira.pt/pt/fnc/acesso-e-estacionamento/chegar-e-sair-do-aeroporto/transportes-publicos) |
+| **6–10 Sep** (in town) | Magnolia Residence | **008** at **R DR Pita–Clube Ténis / Quinta Magnólia** ↔ Centro. Backup: walk down to Lido and **001 / 002** along Estrada Monumental | [008](https://siga.madeira.gov.pt/public/horarios/9) · [001](https://siga.madeira.gov.pt/public/horarios/71) · [002](https://siga.madeira.gov.pt/public/horarios/72) |
+| **11 Sep** (Fri) | Porto da Cruz (Marques / Paulo) | **008** Magnolia → Centro (Praça do Povo / Av. do Mar), walk east to **Campo da Barca** (CAM). Then **701** Funchal → Machico and **walk Larano** to the hotel. Fallback if you skip the walk: **826** (via Portela) or **827** (via Maroços) into Porto da Cruz | [701 (old 23)](https://siga.madeira.gov.pt/horarios/4001) · [826 (old 53)](https://siga.madeira.gov.pt/horarios/4003) · [827 (old 208)](https://siga.madeira.gov.pt/horarios/4019) |
+| **12 Sep** (Sat) | Casa do Til (Santana) or Os Manos (near Faial) | After PR10, northbound at **Ribeiro Frio**: **850** at **14:13** (Faial 14:40, Santana 14:55) or **18:40** (Faial 19:20, Santana 19:35). Til: stay on to **Santana**. Os Manos: get off **Faial**. Early finish: **801** at **10:42** | [Santana network / 801+850](https://siga.madeira.gov.pt/horarios/5000) ([PDF](https://siga.madeira.gov.pt/storage/horarios_pdf/44398B04-BC0E-4791-902D-7802101575ED.pdf)) |
+| **13 Sep** | Same Santana booking | Taxi Santana/Faial → Areeiro for PR1 (no useful bus to the summit). Return here | — |
+| **14 Sep** | Coast hotel (Prazeres / Jardim / Calheta) | After PR6: municipal shuttle **up** before 18:00, then **pre-booked taxi** ER 105 → hotel. No SIGA to the plateau. Tue morning: taxi back to **ER 105 car park** | [Calheta shuttle](https://cmcalheta.pt/pt/visitar/percursos-pedestres/transporte-no-rabacal) · taxi Calheta **291 822 129** |
+| **15 Sep** | Mini-house, Chão da Ribeira | **No bus** into the valley — arrive on **PR13** | — |
+| **16 Sep** | Porto Moniz centre (The Jolie / Euro Moniz) | Walk in from Fanal. Checkout **17** morning: **250** / **341** toward Funchal — not the 381 at 16:00 | [250](https://siga.madeira.gov.pt/horarios/2021) · [341](https://siga.madeira.gov.pt/horarios/2017) |
+| **17–18 Sep** | Funchal (not Magnolia) | Bus from PM morning of the 17th. Sat 19: **Aerobus 500** to FNC | [Aerobus](https://siga.madeira.gov.pt/aerobus) |
+
+
+### 6 Sep — airport → Magnolia (Sunday)
+
+Magnolia is **not** on the Aerobus hotel A–Z list. Get off **Lido (stop 15)** or nearby **Estrada Monumental (12–14)**, then walk up Rua Dr. Pita to Beco da Quinta da Fe 24.
+
+**Aerobus 500 from the airport (stop 01), Sundays and holidays** — cash on board, no 25 Dec:
+
+08:30 · 09:00 · 09:30 · 10:30 · 11:30 · 12:00 · 14:00 · 15:00 · 16:00 · 17:00 · 18:00 · 19:00 · 20:00 · 21:00 · 22:00
+
+(Weekdays add 10:00, 11:00, 13:00; Saturdays skip 10:00 and 13:00.) Last airport departure **22:00**. ~50 min to Praia Formosa; Lido is ~38 min.
+
+### 11 Sep — Magnolia → Machico → Porto da Cruz hotel (Friday)
+
+1. Board **008** toward **Centro** at Quinta Magnólia D / Clube Ténis (frequent from ~05:45; [PDF](https://siga.madeira.gov.pt/public/storage/horarios_pdf/3CA4A08D-34DD-4EA6-BBA3-13C7E3D24B8A.pdf)).
+2. **701** Funchal → Machico weekdays from Funchal: **08:30**, **10:30**, **16:20**. Take **08:30** to have a full Larano day. Paulo check-in is after **15:00**.
+3. Miss 08:30: **826** Funchal **10:00** also calls **Machico ~11:00** (continues Portela → Faial). Or **827** Funchal **10:30** via Maroços if you abandon the walk and bus straight to Porto da Cruz.
+
+### 12 Sep — Ribeiro Frio → Santana / Faial (Saturday)
+
+The 14:13 and 18:40 buses are **850** (old 103), not 801. 801 on Saturday northbound is only the **10:42** Ribeiro Frio trip.
+
+Saturday asterisks on 850 are on-request *branches* (S. Roque do Faial, St. António, Ilha) — book those by 16:00 the day before on **291 201 150** / info@cam-madeira.pt. The **Ribeiro Frio → Faial → Santana** spine is the scheduled service.
+
+### Rabaçal shuttle (Mon 14 evening — leave the valley)
+
+Daily **10:00–18:00**, **€5** one way / **€8** return, cash. Driver **+351 966 426 851**. Last shuttle **before 18:00**, then taxi to the coast hotel. Tuesday taxi goes to the **ER 105 car park**, not the cottage.
+
+
+## 11 Sep notes — Porto da Cruz (2 adults, 1 night)
+
+Costa Linda and Jaca Hostel are sold out. Casa do Cabeço dos Gaviões is not on Airbnb/Booking (call +351 962 894 196 if you want it). Closest bookable 2-bed options:
+
+
+| Option                                 | Source                                                                                                      | Beds / rooms                                  | Price (11–12 Sep)                                                                                                           | Particularities                                                                                                                                                                                                                                        |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Marques studio**                     | [Booking.com](https://www.booking.com/hotel/pt/marques-studio.html)                                         | 2 beds (1 full + 1 sofa) · **1 room**         | **$221 CAD** (€138 = €94 + €44 tax). 1 left when checked 22 Aug.                                                            | Already on the Traileasy Day 1 note. 1.1 km from downtown, 400 m from the beach, 3.6 km from Portela. Rating 7.5 / 400 reviews. Same mattresses-in-one-room setup as a studio; not two rooms.                                                          |
+| **“5 minutes from the beach” (Paulo)** | [Airbnb](https://www.airbnb.ca/rooms/1608813018791173064?adults=2&check_in=2026-09-11&check_out=2026-09-12) | Entire home · 1 bedroom · **2 beds** · 1 bath | **$229 CAD total** for 2 adults, 1 night (checked 22 Aug 2026). Non-refundable **$228.89 CAD**; refundable **$248.34 CAD**. | Only 2-bed Airbnb inside the Porto da Cruz–Portela map box. East of town near Levada do Castelejo; 15 min walk to centre, next to supermarket, free parking. Compact (review: 3 beds squeezed in). Host Paulo, 4.33 / 3 reviews. Check-in after 15:00. |
+
+
+
+## 12–14 Sep notes — Faial / Santana (2 nights, check-in 12 checkout 14)
+
+Ridge beds on the Ribeiro Frio–Poiso strip are sold out (Casa do Ribeiro Frio, Eco Shelters). Poiso camp needs your own tent. Casa do Abrigo do Cedro is not a workable Saturday backpacker hut (IFCN office closed).
+
+**Option 2 is out:** do not plan Santo da Serra (PortoBay / Quinta / Enotel) via Poiso. There is no SIGA bus Poiso → Santo da Serra. **Do not** stay Porto da Cruz 11–13 (wrong direction after Day 2).
+
+**This pass:** finish Saturday at Ribeiro Frio and ride **SIGA 850** north (**14:13** or **18:40**) to **Faial then Santana** (801 is only useful if you finish PR10 by ~10:30). Book **two nights** there. Morning of the 13th: taxi Santana/Faial → Pico do Areeiro for **PR1** (last open day; closed 14–17 Sep). Checkout Monday 14 for the taxi skip toward Rabaçal.
+
+**Sold out / skip 12–14:** Hotel O Colmo; Quinta do Furão; Villa Borboleta; Casa da Quebrada (3-bed house); Sleep and Go Santana in Nature; Cristiano's House (Airbnb, **12–13 only** — 1 night, skip).
+
+**Hotel Costa Linda** (Porto da Cruz) is open 12–14 (twin/queen sea view, breakfast, €196+€8 ≈ **$326 CAD**) but they already sleep PdC the 11th and 850 from Ribeiro Frio goes **north** to Faial/Santana, not back to PdC. Only a fallback.
+
+
+| Option | Source | Beds / rooms | Price (12–14, 2 nights) | Particularities |
+| --- | --- | --- | --- | --- |
+| **Casa do Til** ← cheap hotel pick | [Booking](https://www.booking.com/hotel/pt/casa-do-til-santana.html) | Twin · **2 twins** · **1 room** | **$224 CAD** (€140 **incl taxes**). Breakfast included. Free cancel before 9 Sep. 2 left. 8.4 / 887. | **200 m downtown Santana** — closest to the **850/801 Santana stop** / food. Best value still open. |
+| **Casa Os Manos – Hikers Lodge** ← 2-room pick | [Booking](https://www.booking.com/hotel/pt/casa-os-manos.html) | **2× Single Room** · 2 twins | **$525 CAD** (€320 + €8 tax). Breakfast €8 optional. Non-refundable. 2 singles left. 8.8 / 359. | True **2 rooms**. 2.4 km from Santana / ~1.6 km from Faial (get off **850 at Faial**, not Santana). |
+| Santana in Nature B&B | [Booking](https://www.booking.com/hotel/pt/santana-in-nature-bed-amp-breakfast-santana.html) | 2 twins **or** 1 queen · 1 room | **$419 CAD** (€254+€8) no breakfast; **$467 CAD** (€284+€8) with breakfast. 3 left. 7.5 / 1,572. | 1.5–1.7 km from Faial. Adults-only corridor / Sleep and Go next door is sold out. |
+| GuestReady Charming Getaway | [Booking](https://www.booking.com/hotel/pt/guestready-charming-getaway-by-madeiras-nature.html) · [Airbnb](https://www.airbnb.ca/rooms/1417323674533069686) | 2-bed apt · **2 rooms** · 2 full beds | **$506 CAD** (€178+€138 tax). Non-refundable. Airbnb was **$538 CAD**. 7.3 / 7. | 1.9 km from Santana. Location score 6.6. Same listing as the earlier Airbnb. |
+| Tony's House by YOUR KEY MADEIRA | [Booking](https://www.booking.com/hotel/pt/tonys-house-a.html) | 3-bed apt · 3 full + 2 sofas | **$565 CAD** (€220+€133 tax). Non-refundable. 8.0 / 2. Location 10. | 700 m / 0.8 km from Santana centre. High tax vs room rate. |
+| Casa do Avô | [Booking](https://www.booking.com/hotel/pt/casa-do-avo-santana1.html) | 2-bed house | **$675 CAD** (€314+€108) — same-day earlier check | Entire house; more than needed. |
+| Grandpa's House Santana | Airbnb (earlier map pass) | 2-bed 2-room | **$676 CAD** | In-basin. |
+| Typical house Santana / Casa Edite Faial / Résidencia Jesus | Airbnb | 2–4 bed | $670–$1,290 but listed **11–15** (wrong dates / min stay) | Skip unless you want a 4-night overlap that fights the 14th Rabaçal move. |
+
+
+
+## 14 Sep notes — **coast town** (plan A) · cottage backup
+
+After the taxi skip Encumeada / Paul da Serra you hike Rabaçal (PR6 / PR17). **Do not sleep in the valley.** Shuttle (or walk) to ER 105 **before 18:00**, then a **pre-booked taxi** to Prazeres / Calheta / Jardim. Tuesday morning: taxi back to the **ER 105 car park** (not the cottage door — the 2 km paved road is shuttle-only). Walk down 2 km / ~20–40 min to start toward Chão.
+
+**Mapy “bus” ≠ SIGA.** The pin [Rabaçal Van — ER 105 to Rabaçal House](https://mapy.com/en/turisticka?source=osm&id=148120519&x=-17.1338756&y=32.7556998&z=16) is Calheta’s **municipal shuttle** (cottage / Casa Florestal ↔ ER 105). Daily **10:00–18:00**, **€5** / **€8** cash. Driver **+351 966 426 851**. Official: [Transporte no Rabaçal](https://cmcalheta.pt/pt/visitar/percursos-pedestres/transporte-no-rabacal).
+
+**SIGA 380/381** is coastal (Calheta, Prazeres, Porto Moniz). It **never** climbs to the plateau.
+
+**Backup if you drop the taxis:** Nature Spot Cottage (only beds in the valley). Twin + half board **$506** refundable before 31 Aug. Direct [listings/230977](https://www.rabacalnaturespotcottage.com/listings/230977). Café 10:00–18:00. Check-in 15:00, checkout 10:00. Wild camping is illegal.
+
+| Option | Source | Beds / rooms | Price (14–15, 1 night) | Particularities |
+| --- | --- | --- | --- | --- |
+| **Airbnb Prazeres** (Angela) ← pick (shortest taxis) | [Airbnb](https://www.airbnb.ca/rooms/1718898567563748116?adults=2&check_in=2026-09-14&check_out=2026-09-15) | Entire flatlet · 1 bedroom · **queen + sofa** | **$164 CAD**. Free cancel before 13 Sep. 5.0 / 7. | Village **above** Jardim do Mar. **380** at Prazeres ER 222. |
+| **Hotel Jardim Atlântico** ← hotel / water | [Booking](https://www.booking.com/hotel/pt/jardim-atlantico-calheta.html) | Studio · **1 double or 2 twins** · breakfast | **$237 CAD**. 8.1 / 1,349. | +10–15 min taxi vs Prazeres. |
+| **Calheta Lofts I** ← 2 rooms marina | [Booking](https://www.booking.com/hotel/pt/calheta-lofts-i.html) | Apt · **2 bedrooms** | **$438 CAD**. 8.8 / 31. | Downtown Calheta. Longer taxi. |
+| Casa Tropicana | [Booking](https://www.booking.com/hotel/pt/casa-tropicana-paul-do-mar.html) | House · **3 bedrooms** | **$375 CAD** | Paul do Mar beach. |
+| Casa do Brasileiro | [Booking](https://www.booking.com/hotel/pt/casa-do-brasileiro.html) | House · **2 bedrooms** | **$166–185 CAD** | Arco da Calheta hillside. |
+| **Rabaçal Nature Spot Cottage** ← backup only | [Booking](https://www.booking.com/hotel/pt/rabacal-nature-spot-cottage.html) | **2 twins** · 4 left | **$506 CAD** free cancel before 31 Aug. Half board. | Only hotel in the valley. Skip the taxis; Tuesday starts at the door. |
+
+Seixal on the 14th is a longer taxi and steals Tuesday’s start. Skip.
+
+## 15 Sep notes — Chão da Ribeira / Seixal (1 night, check-in 15 checkout 16)
+
+Walk **PR13** Rabaçal → Chão da Ribeira / Seixal. Sleep in the valley if you can; Seixal town is the bus/taxi fallback (~15 min).
+
+
+| Option | Source | Beds / rooms | Price (15–16, 1 night) | Particularities |
+| --- | --- | --- | --- | --- |
+| **Mini-house “Maison 1 dans la nature”** ← pick | [Airbnb](https://www.airbnb.ca/rooms/1254987563909259224?adults=2&check_in=2026-09-15&check_out=2026-09-16) ([tinyurl](https://tinyurl.com/mfx2wdnz)) | 1 bedroom · **2 beds** · 1 bath | **$201 CAD** total (non-refundable **$200.99**; listed **$227 CAD**). 4.88 / 169. Superhost Xavier. | **In Chão da Ribeira**, Laurissilva. 15 min to Seixal beach/supermarket; **5 min to Fanal trail**. Guest favourite. 1 room, not 2. |
+| Basalto / Cobalt | Booking Seixal search | Not bed-verified this pass | €188 ≈ **$301 CAD** / €228 ≈ **$365 CAD**. 1.3 km downtown. 9.2 / 20 and 9.0 / 39. | Seixal town hotels if the mini-house goes. Confirm 2 beds before booking. |
+| Casa da Nogueira | — | 2-bed villa, Chão da Ribeira | **Not on Booking** (search 22 Aug: no listing). Previously sold out. | Call/email if you still want it (Caminho Agrícola da Fonte, licence 153558/AL). |
+| Gaya Camping | — | Camping | **Not on Booking**. | Skip unless you want tent logistics. |
+
+Do **not** book Porto Moniz hotels 7 km away for this night unless you finish walking all the way to PM on the 15th (that would steal Wednesday’s Fanal day).
+
+
+## 16–18 Sep notes — **1 night Porto Moniz** then Funchal 17–18
+
+Wednesday walk finishes in Porto Moniz. Sleep **16–17 only**. Thursday bus to Funchal. Nights **17–18** in Funchal, checkout **Sat 19 morning** (Aerobus). 19 Sep 2026 is a **Saturday**, not Friday.
+
+**Costa Azul and Casa do Ribeirinho: 2-night minimum** — cannot book 16–17. Town 1-night: The Jolie ~$167, Euro Moniz ~$252 (checked 22 Aug 2026).
+
+**Funchal 17–19 (2 nights):** last night Friday 18. Don’t switch cities unless the flight is very early → Santa Cruz (8–12 min taxi). Not PM / Calheta.
+
+Do **not** add a second PR1 (closed 14–17).
+
+
+### Suggested book-now stack
+
+| Dates | Book | Total |
+| --- | --- | --- |
+| 12–14 | Casa do Til (or Os Manos if 2 rooms) | $224 / $525 CAD |
+| 14–15 | Coast (Prazeres / Jardim) + 2 taxis | $164 / $237 |
+| 15–16 | Mini-house Chão da Ribeira | $201 CAD |
+| 16–17 | Porto Moniz **1 night** (Jolie / Euro Moniz) | ~$167 / ~$252 |
+| 17–19 | Funchal 2 nights (checkout Sat 19 AM) | ~$320–420 |
+
+
+## Traileasy walking days (for context)
+
+
+| Day | Date   | Walk                                                                        | Night in this file |
+| --- | ------ | --------------------------------------------------------------------------- | ------------------ |
+| 1   | Fri 11 | Machico → Porto da Cruz (Larano)                                            | Porto da Cruz      |
+| 2   | Sat 12 | Porto da Cruz → Ribeiro Frio (PR10), then **850**                           | Faial / Santana    |
+| 3   | Sun 13 | PR1 Areeiro → Ruivo (early SIMplifica slot)                                 | Faial / Santana    |
+| 4   | Mon 14 | Taxi skip of closed PR1.3; Encumeada / Paul da Serra → Rabaçal (PR6 / PR17) | Coast (taxi out)   |
+| 5   | Tue 15 | Rabaçal → Chão da Ribeira / Seixal (PR13)                                   | Chão da Ribeira    |
+| 6   | Wed 16 | Chão da Ribeira → Fanal → Porto Moniz                                       | Porto Moniz (1 n.) |
+| —   | 17–18  | After GR1 — Funchal                                                         | Funchal            |
