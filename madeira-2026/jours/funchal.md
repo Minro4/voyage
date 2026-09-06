@@ -88,9 +88,9 @@ Journée entière, nord. Départ Queimadas. Tunnels = **frontale**. **Booker SIM
 
 ---
 
-## Jeudi 10 — jour léger (avant la traverse)
+## Jeudi 10 — journée libre
 
-Checkout demain **11, 701 08:30**. Lessive, sac, courses. **Rien de dur.** Grosse option légère : **baleines 3 h** le matin — [jours-libres.md](jours-libres.md).
+La grosse rando (GR1) **commence demain**, pas aujourd’hui. Journée pleine — scuba / baleines / canyon / ville. Menu : [jours-libres.md](jours-libres.md).
 
 | | |
 | --- | --- |
@@ -98,16 +98,7 @@ Checkout demain **11, 701 08:30**. Lessive, sac, courses. **Rien de dur.** Gross
 | **Option Girão** | Si PR9 a sauté le mercredi : **€5** miradouro (pas un PR). [SIMplifica Cabo Girão](https://simplifica.madeira.gov.pt/services/78-79-256). Bus **267 / 207 / 340** — [détail SIGA](https://siga.madeira.gov.pt/horarios/2006) |
 | **Botânico** | **Non** SIMplifica PR. Billet jardin **€10**. **031 / 029 / 131** |
 
-**Matin — un seul bloc :**
-
-1. **Cabo Girão + Câmara de Lobos** (si pas fait mercredi) — 20–40 min skywalk, poncha à Câmara, retour Lido.
-2. **Jardim Botânico** Eng.º Rui Vieira — 9h–18h, dernière entrée 17h30, ~2 h. [IFCN visiteur](https://ifcn.madeira.gov.pt/en/quintas-e-jardins/jardin-botanico-da-madeira-eng-rui-vieira/informacao-ao-visitante.html).
-3. Encore plus léger : **Praia Formosa** + lessive.
-4. **Garajau** seulement si le baptême n’a pas tenu mardi — un bloc, puis pack.
-
-**Après-midi.** **Lessive. Sac de traverse.** 008 → supermarché. Vérifier **008 + 701 08:30** du 11. QR **PR8 + PR9 + PR1** hors-ligne.
-
-**Soir.** Dîner Lido, coucher tôt.
+**Soir seulement — pack.** Checkout demain **11, 701 08:30**. Lessive + sac + courses **après** l’activité, pas à la place. Vérifier 008 + 701. QR **PR8 + PR9 + PR1** hors-ligne. Dîner Lido, coucher tôt.
 
 **Pluie.** Botânico (serres) · Blandy’s · Arte Sacra · pack à l’appart. Girão skip si nuage.
 
@@ -142,7 +133,7 @@ Petit-déj Magnolia / café Lido. Pas besoin de réserver gastronomique.
 | PR8 fermé / tempête lun 7 | Musées / Caniçal ; PR8 **mardi** si créneau déplaçable (pas mercredi). 2ᵉ repli : jeudi |
 | PR9 fermé / pluie mer 9 | Câmara + Girão mercredi ; PR9 ne va **pas** sur le 12–13 |
 | Monte mardi sauté | Le coller **jeudi** si pas Girão |
-| Jambes mortes jeudi | Formosa + pack. Point. |
+| Jambes mortes jeudi | Formosa. Sac le soir quand même. |
 
 Suite : [traversee.md](traversee.md) (11–16) · [porto-moniz.md](porto-moniz.md) (16–17) · [depart.md](depart.md) (19).
 

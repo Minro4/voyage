@@ -1,26 +1,26 @@
 # Jours libres — grosses activités
 
-Sans voiture, depuis Funchal. **Un** gros bloc par jour libre. La traverse 11–16 et PR8/PR9 restent le cœur.
+Sans voiture, depuis Funchal. **Mardi 8 et jeudi 10 = journées pleines.** La traverse GR1 commence **vendredi 11** (008 + 701 08:30 → Larano). Sources : [calendrier.md](../calendrier.md), checkout Magnolia 11 matin.
 
 ## Quels jours sont vraiment libres
 
 | Date | Jour | Fenêtre | Contrainte |
 | --- | --- | --- | --- |
-| **8 sep** | **Mar** | Journée entière | Lendemain PR8, veille PR9. **Le** créneau pour une grosse sortie |
-| **10 sep** | **Jeu** | **Matin seulement** | Checkout 11, **701 08:30**. Lessive + sac l’après-midi. Rien de dur |
-| **17 sep** | Jeu | Soir | Bus PM → Funchal. Douche, resto. Pas d’activité |
-| **18 sep** | **Ven** | Journée | Récup après GR1. Vol **sam 19 matin**. **Pas de plongée** (12 h sans avion) |
+| **8 sep** | **Mar** | **Journée pleine** | Lendemain PR8, veille PR9 |
+| **10 sep** | **Jeu** | **Journée pleine** | Sac + lessive le **soir**. Bus traverse **ven 11 08:30** |
+| **17 sep** | Jeu | Soir | Bus PM → Funchal. Douche, resto |
+| **18 sep** | **Ven** | Journée | Après GR1. Vol **sam 19 matin**. **Pas de plongée** |
 
-Dimanche 6 = arrivée. Lundi 7 = PR8. Mercredi 9 = PR9.
+Dimanche 6 = arrivée. Lundi 7 = PR8. Mercredi 9 = PR9 (pas libre).
 
 ## Quoi viser (ordre)
 
 1. **Baleines / dauphins** — le classique Madère que la GR1 ne donne pas. 2,5–3 h, marina, jambes zéro.
 2. **Garajau (scuba)** — mérous. Toi **ReActivate** (OW il y a 1 an) + frère baptême. Détail : [funchal.md](funchal.md) mar 8.
 3. **Canyoning niveau 1** — l’autre « wow » terrestre (rappel + vasques). Pas une levada.
-4. **Desertas** — la plus grosse journée bateau (île déserte, peut-être phoque moine). Mange tout le mardi.
+4. **Desertas** — la plus grosse journée bateau (île déserte, peut-être phoque moine). Mange mardi **ou** jeudi entier.
 
-**Ne pas empiler** scuba + canyoning + Desertas. Une grosse le mardi, une demi le jeudi, une légère le vendredi.
+**Ne pas empiler** scuba + canyoning + Desertas le même jour. Une grosse le mardi, une grosse le jeudi, pack le jeudi soir.
 
 ## Mardi 8 — choisir **une**
 
@@ -50,7 +50,7 @@ Septembre = bon mois (globicéphales, dauphins ; baleines jamais garanties).
 
 008 → Centro → marina à pied. Garantie Magic : 2ᵉ sortie **€10** si rien vu.
 
-**Mieux en jeudi matin ou vendredi** si le mardi est déjà scuba / canyon / Desertas.
+**Mardi ou jeudi**, selon ce que l’autre jour mange. Vendredi 18 aussi.
 
 ### C. Canyoning L1 — Ribeira das Cales
 
@@ -58,7 +58,7 @@ Parc écologique de Funchal. Débutants : 5 rappels (max ~12–18 m), sauts **op
 
 [Lokoloko / Viator L1](https://www.viator.com/en-GB/tours/Madeira/Canyoning-Tour-Beginners/d5392-13114P4) · [Lux Madeira](https://luxmadeira.com/tours/canyoning/). Maillot + serviette + change.
 
-Jambes OK le lendemain pour PR9 (levada, pas de D+ monstre). **Pas le jeudi 10.** Vendredi 18 = possible mais cuisses GR1 + rappel = punitif pour l’avion.
+Mardi = veille de PR9 (levada, ok). Jeudi = veille de Larano (côte, ok si vous rentrez ~14h et packez le soir). Vendredi 18 = cuisses GR1 + rappel = punitif pour l’avion.
 
 ### D. Îles Desertas — la plus grosse
 
@@ -69,18 +69,20 @@ Journée **8–9 h**, marina 09:30 → ~17:30. Traversée ~3 h (souvent dauphins
 | [Ventura do Mar](https://www.venturadomar.com/our-tours/) | **€100** | 09:30–17:30, max 16, lunch + écotaxe €3. **+351 914 843 205** |
 | [Bonita da Madeira](https://bonitadamadeira.com/tours/desert-islands/) | **€90** | Souvent **mer + dim** — mer 9 = PR9, donc **pas** pour vous sauf si PR9 a sauté |
 
-Mange le mardi entier. Remplace un trip baleines séparé (la traversée *est* le watching). Mer du sud en septembre : souvent ok, peut annuler. **Pas le jeudi 10** (trop long). Vendredi 18 = long bateau la veille du vol — seulement si vous aimez ça.
+Mange une journée entière (mardi **ou** jeudi). Remplace un trip baleines séparé. Mer du sud en septembre : souvent ok, peut annuler. Jeudi 17:30 → pack + 701 08:30 = serré mais jouable. Vendredi 18 = long bateau la veille du vol.
 
-## Jeudi 10 — un bloc matin, puis pack
+## Jeudi 10 — journée pleine
 
-| Option | Durée | Prix | Note |
-| --- | --- | --- | --- |
-| **Baleines** Magic / Ventura | 2,5–3 h | €40–52 | **Meilleur usage** de ce matin si scuba/canyon était mardi |
-| **Cabo Girão** + Câmara | 3–4 h | €5 miradouro | Si PR9 a sauté mercredi, ou si vous voulez le skywalk. Bus 267/207/340 |
-| **Monte** téléphérique | 2–3 h | **€16** aller / **€22** A/R · [madeiracablecar.com](https://madeiracablecar.com/) | Descente **020/021**. Skip Monte Palace si vous gardez le Botânico IFCN (€10) |
-| Formosa / Lido | 2 h | €0 | Repli jambes mortes |
+Même menu que mardi. Sac **le soir**, pas l’après-midi.
 
-**Pas :** canyon, Desertas, jeep, Porto Santo.
+| Si mardi = | Jeudi peut être |
+| --- | --- |
+| Garajau / ReActivate | Baleines, canyon, Girão+Câmara, Monte, Desertas |
+| Canyon | Garajau (repli), baleines, ville |
+| Desertas | Baleines skip (déjà vu en mer) · ville / Girão / Monte |
+| Ville | N’importe quelle grosse |
+
+Cabo Girão €5 · Botânico IFCN €10 · Monte téléphérique **€16** / **€22** A/R · [madeiracablecar.com](https://madeiracablecar.com/). Descente **020/021**.
 
 ## Vendredi 18 — récup, une chose légère-moyenne
 
@@ -109,8 +111,8 @@ Mange le mardi entier. Remplace un trip baleines séparé (la traversée *est* l
 
 | Jour | Activité | € × 2 ≈ |
 | --- | --- | --- |
-| **Mar 8** | **ReActivate + baptême** (plan A) **ou** canyon L1 | **€158** · canyon ~130–140 |
-| **Jeu 10 matin** | **Baleines** catamaran 3 h | **€80** |
+| **Mar 8** | **ReActivate + baptême** (plan A) **ou** canyon | **€158** · canyon ~130–140 |
+| **Jeu 10** | **Baleines** 3 h (ou l’inverse si scuba jeudi) | **€80** |
 | **Ven 18** | Monte (si sauté) **ou** sunset | €32–44 téléphérique · sunset €80–110 |
 
 Desertas (**€200**) à la place du mardi seulement si vous préférez une île déserte au scuba / canyon. Dans ce cas, skip le trip baleines du jeudi (déjà vu en mer).
