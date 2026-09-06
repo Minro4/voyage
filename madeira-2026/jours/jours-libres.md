@@ -2,6 +2,8 @@
 
 Sans voiture, depuis Funchal. **Mardi 8 et jeudi 10 = journées pleines.** La traverse GR1 commence **vendredi 11** (008 + 701 08:30 → Larano). Sources : [calendrier.md](../calendrier.md), checkout Magnolia 11 matin.
 
+Rapport à montrer au frère (choix + canyon détaillé) : [rapport-activites.md](rapport-activites.md).
+
 ## Quels jours sont vraiment libres
 
 | Date | Jour | Fenêtre | Contrainte |
