@@ -65,6 +65,8 @@ Journée urbaine. Monte **si jambes OK** après PR8 (sinon Monte = jeudi).
 
 **Pluie.** [Museu de Arte Sacra](https://cultura.madeira.gov.pt/museu-de-arte-sacra-do-funchal.html) (lun–ven ~10h–17h30, samedi matin ; **fermé dimanche**) · [Blandy’s Wine Lodge](https://blandyswinelodge.com/pt/contactos/) (Av. Arriaga 28, lun–ven 10h–18h30, sam 10h–18h) · Mercado couvert · Sé. Skip CR7 / hop-on. Si PR8 a sauté lundi et que le créneau a bougé ici : c’est une journée sentier, pas ville.
 
+**Option mer (si vous la prenez).** Réserve de **Garajau** — le spot des mérous. Pas la même plongée : toi = fun dive OW, frère = baptême Discover Scuba (max 12 m, moniteur). Même centre, même matin, même réserve — **pas** buddy (PADI). [Azul Diving](https://www.azuldiving.com/) · hôtel Penha França Mar, Rua Carvalho Araújo 1 · WhatsApp **+351 914 256 575**. Dire : *1 PADI OW + 1 Discover Scuba, morning 8 Sep, Garajau if possible*. Carte OW + logbook. Frère : savoir nager + questionnaire médical. ~€70–120 (OW, kit + taxe réserve) + ~€79 baptême (kit inclus). Repli : **jeu 10** matin (pas ven 18 — 12 h sans avion avant le vol samedi). Pas l’épave Afonso comme sortie partagée (trop profonde pour le baptême).
+
 ---
 
 ## Mercredi 9 — PR9 Caldeirão Verde
@@ -101,6 +103,7 @@ Checkout demain **11, 701 08:30**. Lessive, sac, courses. **Rien de dur.**
 1. **Cabo Girão + Câmara de Lobos** (si pas fait mercredi) — 20–40 min skywalk, poncha à Câmara, retour Lido.
 2. **Jardim Botânico** Eng.º Rui Vieira — 9h–18h, dernière entrée 17h30, ~2 h. [IFCN visiteur](https://ifcn.madeira.gov.pt/en/quintas-e-jardins/jardin-botanico-da-madeira-eng-rui-vieira/informacao-ao-visitante.html).
 3. Encore plus léger : **Praia Formosa** + lessive.
+4. **Garajau** seulement si le baptême n’a pas tenu mardi — un bloc, puis pack.
 
 **Après-midi.** **Lessive. Sac de traverse.** 008 → supermarché. Vérifier **008 + 701 08:30** du 11. QR **PR8 + PR9 + PR1** hors-ligne.
 
