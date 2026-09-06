@@ -2,7 +2,7 @@
 
 | Risque | Mitigation |
 | --- | --- |
-| PR8 / PR9 sold out | Booker SIMplifica **mar 8 + mer 9** maintenant (PR1 déjà fait) |
+| PR8 / PR9 sold out | Booker SIMplifica **lun 7 + mer 9** maintenant (PR1 déjà fait) |
 | Cottage sold out | Repli seulement. Plan A = côte. Ne pas bloquer le voyage dessus |
 | Navette 14 soir ratée | Dernière **avant 18:00**. Sinon 30–40 min de montée. Taxi Calheta déjà commandé |
 | Taxi 15 trop tard | Pickup **07:00–07:30** → parking ER 105. Pas attendre la navette 10:00 |

@@ -1,6 +1,6 @@
 # PR9 — Levada do Caldeirão Verde
 
-Semaine Funchal, **mercredi 9 septembre** (avant la traverse). SIMplifica **€4,50**/pers. — **à booker**. Ça se vend.
+Semaine Funchal, **mercredi 9 septembre** (figé le 6 sep — avant la traverse). SIMplifica **€4,50**/pers. — **à booker**. Ça se vend.
 
 Départ : **Parque Florestal das Queimadas** (au-dessus de Santana). Tunnels → **frontale**. Levada ≠ potable.
 

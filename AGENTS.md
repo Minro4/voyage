@@ -24,6 +24,8 @@ Commit and push each change autonomously, directly to `master`. **Do not open a 
 
 **Practical takeaway for this trip:** you *can* book once on the island if anything is left, but for PR1 / 25 Fontes / Caldeirão Verde / São Lourenço, **book before arrival** (or as soon as dates are firm). A 7-day combined pass (€52.50) can be economical for many hikes — still need a separate slot reservation for each trail.
 
+**Locked 6 Sep (arrival day):** **PR8 Monday 7** (São Lourenço) and **PR9 Wednesday 9** (Caldeirão Verde). Tuesday 8 is a town day between them. Still need SIMplifica slots.
+
 ### PR1 – Vereda do Areeiro (Pico do Areeiro → Pico Ruivo)
 
 Closed for boardwalk works during the trip:
