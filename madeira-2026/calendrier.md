@@ -4,7 +4,7 @@ Checkout Funchal = **vendredi 11 matin**. La traversée commence ce jour-là. PR
 
 | Date | Jour | Marche / journée | Nuit | Résa nuit |
 | --- | --- | --- | --- | --- |
-| 6 sep | Dim | Arrivée FNC → Aerobus 500 → Magnolia | Funchal | Fait |
+| 6 sep | Dim | Arrivée + voiture. Check-in 15:00. **A** Botânico ou **B** côte : [dimanche-6.md](jours/dimanche-6.md) | Funchal | Fait |
 | 7 sep | Lun | Funchal (ville / Monte) | Funchal | Fait |
 | 8 sep | Mar | **PR8** São Lourenço (AllTrails → Pico do Furado) | Funchal | Fait |
 | 9 sep | Mer | **PR9** Caldeirão Verde (Queimadas) | Funchal | Fait |
