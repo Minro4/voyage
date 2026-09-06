@@ -2,6 +2,10 @@
 
 This project helps organize a **trip to Madeira** (6–19 September 2026; fly out **Saturday 19 morning**).
 
+## Git (agents)
+
+Commit and push each change autonomously, directly to `master`. **Do not open a pull request.** No feature-branch + PR cycle — land the change on `master` and push.
+
 ## Trail notes
 
 ### Reservations (SIMplifica) — required since Jan 2026
