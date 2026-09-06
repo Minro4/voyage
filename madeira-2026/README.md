@@ -21,7 +21,7 @@ Dossier opérationnel. **Tu paies les réservations ensuite** — ici c’est l�
 | Vols | **Manquant** — heure sam 19 matin (Aerobus vs taxi Lido) |
 | Funchal 6–11 Magnolia | **Réservé** |
 | Nuits 11–18 | À réserver (PM **1 nuit** + Funchal **17–19**) |
-| SIMplifica | **PR1 fait.** À booker : **PR8 mar 8 + PR9 mer 9** |
+| SIMplifica | **PR1 fait.** À booker : **PR8 lun 7 + PR9 mer 9** |
 | Taxis 13 / 14 | À prébooker **+ 14 soir et 15 matin** (côte). Plus de taxi PM le 19 |
 
 ## Ce dossier vs la racine du repo

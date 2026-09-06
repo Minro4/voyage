@@ -11,7 +11,7 @@ Portail : [simplifica.madeira.gov.pt](https://simplifica.madeira.gov.pt) (servic
 | # | Statut | Quoi | Date | Taxe / pers. |
 | --- | --- | --- | --- | --- |
 | — | **Fait** | **PR1 complet** Areeiro → Ruivo | dim 13 | €10,50 (déjà payé) |
-| **A** | **À booker** | **PR8** São Lourenço (AllTrails jusqu’à Pico do Furado) | **mar 8** | €4,50 |
+| **A** | **À booker** | **PR8** São Lourenço (AllTrails jusqu’à Pico do Furado) | **lun 7** | €4,50 |
 | **B** | **À booker** | **PR9** Caldeirão Verde (Queimadas) | **mer 9** | €4,50 |
 | C | Après A–B | **PR10** Furado matin | sam 12 | €4,50 |
 | D | Après A–B | **PR6** 25 Fontes **après-midi** | lun 14 | €4,50 |

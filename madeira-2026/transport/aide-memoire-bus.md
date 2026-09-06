@@ -6,7 +6,7 @@ Numéros **2024–26** : le bandeau peut encore montrer l’ancien. PDFs : [siga
 | --- | --- | --- | --- |
 | **Dim 6** | FNC → Magnolia | **500** → **Lido 15** | 08:30…**22:00**. €6,70 cash. [Aerobus](https://siga.madeira.gov.pt/aerobus) |
 | **6–10** | Magnolia ↔ Centro | **008** | Repli 001/002 Lido |
-| **Mar 8** | Funchal → PR8 | 008 + **701 08:30** + **702** jusqu’à **Baía d’Abra** | **703** ≠ parking. Booker SIMplifica. [702](https://siga.madeira.gov.pt/horarios/4007) |
+| **Lun 7** | Funchal → PR8 | 008 + **701 08:30** + **702** jusqu’à **Baía d’Abra** | **703** ≠ parking. Booker SIMplifica. [702](https://siga.madeira.gov.pt/horarios/4007) |
 | **Mer 9** | Funchal → PR9 | 008 + **801** → Santana + **taxi** Queimadas | Pas de bus à la porte. [801 / réseau Santana](https://siga.madeira.gov.pt/horarios/5000) |
 | **Ven 11** | Magnolia → Machico / PdC | 008 + **701 08:30** + Larano | Repli **826** 10:00 / **827** 10:30 |
 | **Sam 12** | Ribeiro Frio → Santana | **850** **14:13** ou **18:40** | **801** nord samedi = **10:42** seulement |

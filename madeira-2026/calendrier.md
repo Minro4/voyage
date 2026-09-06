@@ -5,8 +5,8 @@ Checkout Funchal = **vendredi 11 matin**. La traversée commence ce jour-là. PR
 | Date | Jour | Marche / journée | Nuit | Résa nuit |
 | --- | --- | --- | --- | --- |
 | 6 sep | Dim | Arrivée FNC → Aerobus 500 → Magnolia | Funchal | Fait |
-| 7 sep | Lun | Funchal (ville / Monte) | Funchal | Fait |
-| 8 sep | Mar | **PR8** São Lourenço (AllTrails → Pico do Furado) | Funchal | Fait |
+| 7 sep | Lun | **PR8** São Lourenço (AllTrails → Pico do Furado) | Funchal | Fait |
+| 8 sep | Mar | Funchal (ville / Monte) | Funchal | Fait |
 | 9 sep | Mer | **PR9** Caldeirão Verde (Queimadas) | Funchal | Fait |
 | 10 sep | Jeu | Funchal léger, Girão si sauté, lessive, sac | Funchal | Fait |
 | 11 sep | Ven | 008 + **701 08:30** → Machico → Larano → Porto da Cruz | Porto da Cruz | À faire |

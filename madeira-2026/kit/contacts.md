@@ -136,7 +136,7 @@ Enregistrer le voyage : [voyage.gc.ca](https://voyage.gc.ca/inscription).
 | Date | PR | Créneau | N° réservation |
 | --- | --- | --- | --- |
 | 13 sept. | **PR1** Areeiro → Ruivo | **fait** | |
-| **8 sept.** | **PR8** São Lourenço | **à booker** | |
+| **7 sept.** | **PR8** São Lourenço | **à booker** | |
 | **9 sept.** | **PR9** Caldeirão Verde | **à booker** | |
 | 12 sept. | PR10 | | |
 | 14 sept. | PR6 et/ou PR17 | | |
