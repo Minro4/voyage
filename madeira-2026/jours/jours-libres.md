@@ -56,9 +56,11 @@ Septembre = bon mois (globicéphales, dauphins ; baleines jamais garanties).
 
 ### C. Canyoning L1 — Ribeira das Cales
 
-Parc écologique de Funchal. Débutants : 5 rappels (max ~12–18 m), sauts **optionnels** 1–2 m, nage. Pickup hôtel ~08:30–09:30, retour ~13:00–14:00. **€65–70**. Équipement + photos + transfer Funchal.
+Parc écologique de Funchal. Débutants : 5 rappels (max ~12–18 m), sauts **optionnels** 1–2 m, nage. Pickup hôtel ~08:30–09:30, retour ~13:00–14:00.
 
-[Lokoloko / Viator L1](https://www.viator.com/en-GB/tours/Madeira/Canyoning-Tour-Beginners/d5392-13114P4) · [Lux Madeira](https://luxmadeira.com/tours/canyoning/). Maillot + serviette + change.
+**Prix plancher €65 / pers. → €130 pour 2.** Meilleur package à ce prix : **[Harmony in Nature](https://www.madeira-harmonyinnature.com/en/canyoning/level-1.html)** (Adidas + photos + snack, pickup Magnolia). WhatsApp Rubina **+351 967 056 600**. Repli calendrier ouvert : [MAK / checkyeti](https://www.checkyeti.com/en/d/2324/18775) (€65, +€5 boots). Comparatif : [rapport-activites.md](rapport-activites.md). Pas GYG / Viator.
+
+Maillot + serviette + change.
 
 Mardi = veille de PR9 (levada, ok). Jeudi = veille de Larano (côte, ok si vous rentrez ~14h et packez le soir). Vendredi 18 = cuisses GR1 + rappel = punitif pour l’avion.
 

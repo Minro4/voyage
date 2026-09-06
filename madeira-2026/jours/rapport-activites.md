@@ -96,7 +96,30 @@ Pas une levada. Pas le GR1. On ne le reverra pas sur la traverse.
 - **Mardi** : rentrés ~13 h, PR9 le lendemain = levada (pas un D+ monstre).  
 - **Jeudi** : aussi ok — rentrés ~13 h, pack le soir, Larano vendredi = côte, pas de rappel.
 
-Liens : [Lux Madeira L1](https://luxmadeira.com/tours/canyoning/) · [Madeira Adventure Kingdom](https://www.madeira-adventure-kingdom.com/canyoning/canyoning-madeira-island/) · [Viator L1](https://www.viator.com/en-GB/tours/Madeira/Canyoning-Tour-Beginners/d5392-13114P4)
+### Booker mardi 8 — comparatif (2 pers., Magnolia / Lido)
+
+Même canyon (Ribeira das Cales). **Booker en direct**, pas GYG / Civitatis / Viator (même sortie, **+€15–20 / pers.**).
+
+| Opérateur | Prix / pers. | Pour 2 | Pickup Magnolia | Chaussures canyon | Photos | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| **[Harmony in Nature](https://www.madeira-harmonyinnature.com/en/canyoning/level-1.html)** | **€65** | **€130** | Oui (Funchal) | **Adidas incluses** | Oui + eau + KitKat | **Meilleur package au plancher.** 2 guides IPDJ, max 10–12. WhatsApp Rubina **+351 967 056 600** / Hugo **+351 969 052 958** |
+| **[Madeira Adventure Kingdom](https://www.madeira-adventure-kingdom.com/canyoning/canyoning-madeira-island/)** | **€65** (+€5 boots) | **€130–140** | Oui, 08:00–09:00 | +€5 ou baskets perso | Oui + chocolat | **Calendrier ouvert** : [checkyeti](https://www.checkyeti.com/en/d/2324/18775) tous les jours **6 sep–31 déc 2026**, départ 08:30. WhatsApp **+351 918 080 557** |
+| **[Lux Madeira](https://luxmadeira.com/tours/canyoning/)** | **€65** | **€130** | Oui, 09:00–09:30 → 13:00–13:30 | Baskets perso (mouillées) | Pas listées | Package un peu plus mince. **+351 934 878 868** · info@luxmadeira.com |
+| Go Canyoning | €70 | €140 | **Non** — RDV musée CR7 09:00 | Incluses | Oui | Bus 008 en plus |
+| Lokoloko | €70–85 | €140–170 | Hôtel *ou* Galosol (Caniço) | Incluses | Oui + snack | Groupes plus petits, plus cher |
+| Fast Rope / West Side / Civitatis | €75–85 | €150–170 | Souvent oui | Souvent oui | Oui | Markup plateforme |
+
+**Meilleur prix :** **€65 / pers. → €130 pour 2.** C’est le plancher L1. Personne de sérieux n’est en dessous.
+
+**Meilleur package à ce prix : Harmony in Nature.** Seul des trois à €65 qui inclut les **Adidas canyon** (pas +€5, pas baskets perso), photos, snack, 2 guides IPDJ, pickup Lido. Notes GYG 5,0 / 68 (sur GYG c’est ~$80 — **ne pas** booker là).
+
+**Si WhatsApp Harmony ne répond pas aujourd’hui :** MAK via [checkyeti](https://www.checkyeti.com/en/d/2324/18775) — créneau **mardi 8** affiché ouvert (08:30). +€10 pour 2 si vous louez les boots.
+
+Mardi = **après-demain** (aujourd’hui dim. 6). Message WhatsApp **ce soir**, pas GYG.
+
+Texte à coller (Harmony ou MAK) :
+
+> Hi — 2 adults, beginner canyoning L1 Ribeira das Cales, **Tuesday 8 September 2026**. Pickup **Magnolia Residence, Beco da Quinta da Fe 24, Lido / Funchal**. Hotel pickup included? Confirm €65/person all-in (boots + photos)? Heights / weights / shoe sizes on request. WhatsApp ok.
 
 ---
 
@@ -235,6 +258,6 @@ SIMplifica PR8 + PR9 = **€9 / pers.** à part (sentiers, déjà dans le plan r
 4. Si on droppe plongée **et** baleines : **kayak Garajau**, **snorkel autonomie**, **Girão+Fajã**, ou **parapente** ?  
 5. Desertas : on skip (recommandé) sauf coup de cœur île déserte ?
 
-Dès que c’est tranché : booker canyon + Azul + éventuellement Magic Dolphin (septembre se vend). PR8 lun 7 et PR9 mer 9 restent **à booker** sur [SIMplifica](https://simplifica.madeira.gov.pt) dans tous les cas.
+Canyon mardi : WhatsApp **Harmony** (+351 967 056 600) aujourd’hui ; repli **MAK / checkyeti**. Puis Azul + éventuellement Magic Dolphin. PR8 lun 7 et PR9 mer 9 restent **à booker** sur [SIMplifica](https://simplifica.madeira.gov.pt).
 
 Fiches ops : [jours-libres.md](jours-libres.md) · [funchal.md](funchal.md) · [calendrier.md](../calendrier.md).

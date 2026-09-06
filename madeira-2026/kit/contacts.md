@@ -97,6 +97,18 @@ Taxis jaunes bande bleue. Forfait **avant** de partir. Espèces pour la montagne
 
 ---
 
+## Canyoning L1 (mardi 8 — Ribeira das Cales)
+
+Booker **en direct**. Pickup Magnolia (Funchal) inclus chez les trois à €65.
+
+| | Contact | Prix 2 pers. | Quand |
+| --- | --- | --- | --- |
+| **Harmony in Nature** (meilleur package) | WhatsApp Rubina **+351 967 056 600** · Hugo **+351 969 052 958** · [fiche L1](https://www.madeira-harmonyinnature.com/en/canyoning/level-1.html) | **€130** (Adidas + photos) | 1ʳᵉ option |
+| **Madeira Adventure Kingdom** | WhatsApp **+351 918 080 557** · reservas@madeira-adventure-kingdom.com · [checkyeti](https://www.checkyeti.com/en/d/2324/18775) | **€130–140** (+€5 boots) | Repli si Harmony plein |
+| Lux Madeira | **+351 934 878 868** · info@luxmadeira.com · [fiche](https://luxmadeira.com/tours/canyoning/) | **€130** (baskets perso) | 3ᵉ choix |
+
+---
+
 ## Aide consulaire canadienne
 
 **Pas de consulat à Funchal.** Madère = circonscription de Lisbonne.
