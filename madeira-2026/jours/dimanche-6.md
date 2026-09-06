@@ -109,6 +109,24 @@ Encore ~15 min en montée. **€5**/pers. sur place, **8h–20h**, pas de créne
 
 Sacs au coffre, rien de visible. Message à l’hôte pour déposer les sacs avant 15h.
 
+### Depuis le parking gratuit Praia Formosa
+
+Vous y êtes. Temps **à compter** (pentes, feux). Entre parenthèses : km.
+
+| Vers | Voiture | À pied |
+| --- | --- | --- |
+| [Ponta da Cruz](https://maps.google.com/?q=Ponta+da+Cruz+Funchal) | **3 min** (1 km) | ~15 min promenade |
+| [Lido / Pingo Doce](https://maps.google.com/?q=Pingo+Doce+Rua+do+Gorgulho+Funchal) | **6–8 min** (3 km) | ~25–35 min promenade |
+| [Magnolia](https://maps.google.com/?q=Beco+da+Quinta+da+Fe+24+Funchal) | **8–10 min** (3 km, montée) | ~25 min |
+| [Pico dos Barcelos](https://maps.google.com/?q=32.65873,-16.93960) | **10–12 min** (4 km, montée) | non |
+| [Câmara de Lobos](https://maps.google.com/?q=Parque+de+estacionamento+Baía+Câmara+de+Lobos) | **8–10 min** (4 km) | ~30 min promenade si ouverte |
+| [Cabo Girão](https://maps.google.com/?q=32.65710,-17.00546) | **15–20 min** (11 km, virages) | non |
+| [Jardim Botânico](https://maps.google.com/?q=32.66116,-16.89523) | **15–20 min** (8 km, traverse + montée) | non |
+
+**Chaîne A :** Formosa → Botânico 15–20 · Botânico → Lido 15–18 · Lido → Magnolia 6–8. **Total volant ~40–45 min.**
+
+**Chaîne B :** Formosa → Barcelos 10–12 · Barcelos → Câmara 12–15 · Câmara → Girão 12–15 · Girão → Lido 18–22 · Lido → Magnolia 6–8. **Total volant ~1 h–1 h 10.** (Si déjeuner à Câmara : Girão → Câmara 12–15 puis Câmara → Lido 12–15.)
+
 ---
 
 ## Se garer — chaque arrêt
