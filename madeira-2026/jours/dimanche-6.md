@@ -21,7 +21,7 @@ Jardin le matin, mer l’après-midi. **Un seul jardin** — pas [Monte Palace](
 | Heure | Quoi | Liens |
 | --- | --- | --- |
 | **9:00** | Café Lido / Estrada Monumental | [Passeio Marítimo](https://www.visitmadeira.com/pt/o-que-fazer/viver-a-cidade-do-funchal/explorar-a-cidade/passeios-publicos/passeio-maritimo-do-funchal/) |
-| **9:30–12:00** | **Jardim Botânico** — €10/pers., 9h–18h (dernière entrée 17h30), parking sur place. ~2 h. Sortir **avant 12h15** | [Infos IFCN](https://ifcn.madeira.gov.pt/en/quintas-e-jardins/jardin-botanico-da-madeira-eng-rui-vieira/informacao-ao-visitante.html) · [Visit Madeira](https://visitmadeira.com/pt/o-que-fazer/viver-a-cidade-do-funchal/explorar-a-cidade/miradouros-no-funchal/miradouro-do-jardim-botanico/) · [Carte](https://maps.google.com/?q=Jardim+Botânico+da+Madeira+Caminho+do+Meio) |
+| **9:30–12:00** | **Jardim Botânico** — €10/pers., 9h–18h (dernière entrée 17h30). Parking **gratuit, petit**, en face de l’entrée principale. ~2 h. Sortir **avant 12h15** | [Infos IFCN](https://ifcn.madeira.gov.pt/en/quintas-e-jardins/jardin-botanico-da-madeira-eng-rui-vieira/informacao-ao-visitante.html) · [Visit Madeira](https://visitmadeira.com/pt/o-que-fazer/viver-a-cidade-do-funchal/explorar-a-cidade/miradouros-no-funchal/miradouro-do-jardim-botanico/) · [Parking](https://maps.google.com/?q=32.66116,-16.89523) · [Jardin](https://maps.google.com/?q=Jardim+Botânico+da+Madeira+Caminho+do+Meio) |
 | **12:15–13:15** | Déjeuner près du jardin ou redescendre au Lido | — |
 | **13:30–14:30** | Courses + 20 min **Lido → Ponta da Cruz** si jambes OK | [Pingo Doce](https://maps.google.com/?q=Pingo+Doce+Rua+do+Gorgulho+Funchal) · [Ponta da Cruz](https://maps.google.com/?q=Ponta+da+Cruz+Funchal) |
 | **15:00** | Check-in Magnolia, douche, sieste 45–90 min | [Carte hôtel](https://maps.google.com/?q=Beco+da+Quinta+da+Fe+24+Funchal) · [Booking](https://www.booking.com/hotel/pt/magnolia-residence.fr.html) |
@@ -30,6 +30,19 @@ Jardin le matin, mer l’après-midi. **Un seul jardin** — pas [Monte Palace](
 ![Piscines et front de mer du Lido](img/lido.jpg)
 
 *Complexo Balnear do Lido — Ulrika, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia](https://commons.wikimedia.org/wiki/File:Lido,_Funchal_2.jpg).*
+
+### Se garer (Botânico)
+
+**Pin GPS :** [32.66116, −16.89523](https://maps.google.com/?q=32.66116,-16.89523) — *Parque de Estacionamento do Jardim Botânico*, coin **Caminho do Meio / Caminho das Voltas**, en face de l’**entrée principale** (maison / billets).
+
+Dans Maps : **« Jardim Botânico da Madeira »** ou **« Parque Jardim Botânico »**. **Pas** « Teleférico Jardim Botânico » — c’est l’entrée nord, autre parking, plus loin.
+
+Depuis le Magnolia / Lido : ~15–20 min. Estrada Monumental vers l’est, puis monter **Caminho do Meio** (pente, un virage serré près de Quinta do Bom Sucesso). Lent, piétons, bus 29/31.
+
+- **Gratuit**, pas de ticket
+- **Petit** : ~7 places en haut + ~15 en bas. Dimanche souvent plein vers **11h**
+- Si complet : Caminho do Meio / Caminho das Voltas, **sans bloquer** portails ni arrêt de bus
+- Frein à main + P. Sacs au coffre, rien de visible
 
 **Si le jardin fatigue :** coupez après 1 h, descendez à [Praia Formosa](https://maps.google.com/?q=Praia+Formosa+Funchal), asseyez-vous.
 
