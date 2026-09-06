@@ -4,7 +4,7 @@ Magnolia Residence, Lido / Rua Dr. Pita (2 chambres). Check-out **vendredi 11 ma
 
 **Ne pas** caser ici : PR1, PR10, PR6 / 25 Fontes, PR13 — c’est la traverse 11–16. Pas de day-trip Rabaçal.
 
-Tu **ne réserves pas** les restos. **PR1 = déjà booké.** Il reste à booker **toi-même** **PR8 (mar 8)** et **PR9 (mer 9)** sur [SIMplifica](https://simplifica.madeira.gov.pt) (se vendent). Relire chaque PDF SIGA **la veille**.
+Tu **ne réserves pas** les restos. **PR1 = déjà booké.** Il reste à booker **toi-même** **PR8 (lun 7)** et **PR9 (mer 9)** sur [SIMplifica](https://simplifica.madeira.gov.pt) (se vendent). Dates figées le 6 sep. Relire chaque PDF SIGA **la veille**.
 
 Navette locale : **008** aux arrêts *R DR Pita–Clube Ténis / Quinta Magnólia* ↔ Centro. Repli : descendre au Lido, **001 / 002** le long de l’Estrada Monumental. Horaires : [008](https://siga.madeira.gov.pt/public/horarios/9) · [001](https://siga.madeira.gov.pt/public/horarios/71) · [002](https://siga.madeira.gov.pt/public/horarios/72). Arrivée dimanche : [../transport/arrivee.md](../transport/arrivee.md).
 
@@ -23,15 +23,34 @@ Vol + jet lag. Objectif : clés, eau, dodo. Pas de sentier.
 
 **Après-midi.** Si l’énergie reste : promenade **Lido → Ponta da Cruz** (plat, mer, 20–40 min). Courses : eau, fruit, snacks, **cash** (bus, petits cafés). Pas de Monte, pas de centre chargé.
 
-**Soir.** Dîner **près du Lido** (Estrada Monumental). Coucher tôt.
+**Soir.** Dîner **près du Lido** (Estrada Monumental). Coucher tôt. Si pas encore fait : booker **PR8 lun 7 + PR9 mer 9** sur SIMplifica, et relire le PDF **702** (lendemain matin).
 
 **Pluie.** Rester à l’appart. 008 vers le centre seulement si tu sors de tes gonds — sinon rien.
 
 ---
 
-## Lundi 7 — centre et vieille ville
+## Lundi 7 — PR8 São Lourenço (AllTrails jusqu’à Pico do Furado)
 
-Journée urbaine, jambes fraîches. Monte **seulement si** le vol n’a pas tout mangé (sinon Monte = jeudi).
+Péninsule sèche, vent, **zéro ombre**. Trace : [AllTrails](https://www.alltrails.com/trail/portugal/madeira--2/miradouro-de-sao-lourenco-cais-do-sardinha-pico-do-furado) (Casa do Sardinha + Pico do Furado). Officiel IFCN = 4 km + 4 km A/R ; AllTrails est plus long — **un** ticket PR8. [Visit Madeira PR8](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-8-vereda-da-ponta-de-sao-lourenco/). **Booker SIMplifica.** Fiche : [../sentiers/pr8.md](../sentiers/pr8.md).
+
+| | |
+| --- | --- |
+| **SIMplifica** | **Oui.** [Portal](https://simplifica.madeira.gov.pt). **€4,50** / pers. > 12 ans. Fenêtre 30 min — commencer **dedans**. QR sur le téléphone. Détail : [../sentiers/simplifica.md](../sentiers/simplifica.md) |
+| **Bus** | **008** → Campo da Barca (CAM). Puis **701** (ex-23) Funchal → Machico (semaine **08:30**, 10:30, 16:20 — viser **08:30**). Ensuite **702** (ex-113) **Caniçal → Baía d’Abra** (c’est *ça* le parking du sentier). **703** = Ribeira Seca : utile seulement comme rabattement Caniçal, **pas** le bout de la péninsule. [701](https://siga.madeira.gov.pt/horarios/4001) · [702](https://siga.madeira.gov.pt/horarios/4007) ([PDF 113/702](https://siga.madeira.gov.pt/storage/horarios_pdf/sam_113.pdf)). Certaines courses 702 sont scolaires (**PE**) — relire le PDF **dimanche soir**. |
+
+**Matin.** Créneau tôt (chaleur + dernier bus). Eau **2–3 L**, chapeau, coupe-vent. Ne pas coller le bord des falaises. Maison du Sardinha / baignade en bout de sentier si tu as le temps **et** le bus du retour. Jet lag : rythme plus lent, pas d’enchaînement.
+
+**Après-midi.** Même sentier en retour. Noter **le dernier 702 Baía d’Abra → Caniçal / Machico** avant de partir. Enchaîner 701 vers Funchal, 008 Magnolia.
+
+**Soir.** Lido, dîner simple, jambes en l’air. Pas de deuxième rando.
+
+**Pluie / vent fort.** PR8 = arêtes exposées : **on n’y va pas**. Repli : Museu da Baleia au Caniçal si tu es déjà à l’est, ou Machico plage + 701 retour ; sinon journée musées Funchal. Reporter PR8 au **mardi** (journée ville) ou au **jeudi** (pas mercredi — PR9) **seulement si** le créneau SIMplifica peut être **déplacé** (remboursement IFCN surtout si *eux* ferment le sentier).
+
+---
+
+## Mardi 8 — centre et vieille ville
+
+Journée urbaine, tampon entre PR8 et PR9. Monte **si** les jambes du lundi le permettent (sinon Monte = jeudi).
 
 | | |
 | --- | --- |
@@ -42,28 +61,9 @@ Journée urbaine, jambes fraîches. Monte **seulement si** le vol n’a pas tout
 
 **Après-midi.** Zona Velha (Rua de Santa Maria, Fortaleza de São Tiago). Option **si jambes OK** : téléphérique depuis la Zona Velha vers Monte ([Visit Madeira — Teleférico](https://visitmadeira.com/pt/meios-de-transporte/teleferico-do-funchal/) ; opérateur [madeiracablecar.com](https://madeiracablecar.com/) ~8h45–17h45, dernier embarquement 17h45) **ou** bus **020 / 021** depuis le Centro ([SIGA 020](https://siga.madeira.gov.pt/horarios/25), [PDF 020](https://siga.madeira.gov.pt/public/storage/horarios_pdf/D1EF8AC3-B25C-4132-B641-D9DAA2CA518C.pdf)). Descente : **020 / 021** (économe) plutôt que la luge.
 
-**Soir.** Dîner **en centre** puis 008 retour, ou 008 vers le Lido et manger là. Pas tard.
+**Soir.** Dîner **en centre** puis 008 retour, ou 008 vers le Lido et manger là. Pas tard. Booker le taxi Queimadas du mercredi (**+351 291 572 540**) avec l’heure du créneau PR9.
 
 **Pluie.** [Museu de Arte Sacra](https://cultura.madeira.gov.pt/museu-de-arte-sacra-do-funchal.html) (lun–ven ~10h–17h30, samedi matin ; **fermé dimanche**) · [Blandy’s Wine Lodge](https://blandyswinelodge.com/pt/contactos/) (Av. Arriaga 28, lun–ven 10h–18h30, sam 10h–18h) · Mercado couvert · Sé. Skip CR7 / hop-on.
-
----
-
-## Mardi 8 — PR8 São Lourenço (AllTrails jusqu’à Pico do Furado)
-
-Péninsule sèche, vent, **zéro ombre**. Trace : [AllTrails](https://www.alltrails.com/trail/portugal/madeira--2/miradouro-de-sao-lourenco-cais-do-sardinha-pico-do-furado) (Casa do Sardinha + Pico do Furado). Officiel IFCN = 4 km + 4 km A/R ; AllTrails est plus long — **un** ticket PR8. [Visit Madeira PR8](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-8-vereda-da-ponta-de-sao-lourenco/). **Booker SIMplifica.** Fiche : [../sentiers/pr8.md](../sentiers/pr8.md).
-
-| | |
-| --- | --- |
-| **SIMplifica** | **Oui.** [Portal](https://simplifica.madeira.gov.pt). **€4,50** / pers. > 12 ans. Fenêtre 30 min — commencer **dedans**. QR sur le téléphone. Détail : [../sentiers/simplifica.md](../sentiers/simplifica.md) |
-| **Bus** | **008** → Campo da Barca (CAM). Puis **701** (ex-23) Funchal → Machico (semaine **08:30**, 10:30, 16:20 — viser **08:30**). Ensuite **702** (ex-113) **Caniçal → Baía d’Abra** (c’est *ça* le parking du sentier). **703** = Ribeira Seca : utile seulement comme rabattement Caniçal, **pas** le bout de la péninsule. [701](https://siga.madeira.gov.pt/horarios/4001) · [702](https://siga.madeira.gov.pt/horarios/4007) ([PDF 113/702](https://siga.madeira.gov.pt/storage/horarios_pdf/sam_113.pdf)). Certaines courses 702 sont scolaires (**PE**) — relire le PDF **lundi soir**. |
-
-**Matin.** Créneau tôt (chaleur + dernier bus). Eau **2–3 L**, chapeau, coupe-vent. Ne pas coller le bord des falaises. Maison du Sardinha / baignade en bout de sentier si tu as le temps **et** le bus du retour.
-
-**Après-midi.** Même sentier en retour. Noter **le dernier 702 Baía d’Abra → Caniçal / Machico** avant de partir. Enchaîner 701 vers Funchal, 008 Magnolia.
-
-**Soir.** Lido, dîner simple, jambes en l’air. Pas de deuxième rando.
-
-**Pluie / vent fort.** PR8 = arêtes exposées : **on n’y va pas**. Repli : Museu da Baleia au Caniçal si tu es déjà à l’est, ou Machico plage + 701 retour ; sinon journée musées Funchal. Reporter PR8 au **jeudi** (pas mercredi — PR9) **seulement si** le créneau SIMplifica peut être **déplacé** (remboursement IFCN surtout si *eux* ferment le sentier).
 
 ---
 
@@ -112,8 +112,8 @@ Checkout demain **11, 701 08:30**. Lessive, sac, courses. **Rien de dur.**
 
 ## Manger — 3 zones, pas une bible
 
-1. **Lido / Estrada Monumental / Ponta da Cruz** — 10 min à pied du Magnolia. Idéal dimanche, mardi soir (PR8), jeudi. Qualité hôtelière inégale : viser les terrasses pleines de locaux / poissons du jour, pas le menu photo 5 langues vide.
-2. **Centro / Av. Arriaga / autour de la Sé** — 008. Blandy’s, restos de ville, plus de choix qu’au Lido. Un ou deux soirs (lundi, éventuellement mercredi).
+1. **Lido / Estrada Monumental / Ponta da Cruz** — 10 min à pied du Magnolia. Idéal dimanche, lundi soir (PR8), jeudi. Qualité hôtelière inégale : viser les terrasses pleines de locaux / poissons du jour, pas le menu photo 5 langues vide.
+2. **Centro / Av. Arriaga / autour de la Sé** — 008. Blandy’s, restos de ville, plus de choix qu’au Lido. Un ou deux soirs (mardi, éventuellement mercredi).
 3. **Zona Velha (Rua de Santa Maria)** — ambiance, beaucoup de menus touristes. Si tu y vas : une rue en retrait, ou une table déjà pleine. Câmara de Lobos = **jeudi** si Girão, pas mercredi (PR9).
 
 Petit-déj Magnolia / café Lido. Pas besoin de réserver gastronomique.
@@ -136,9 +136,9 @@ Petit-déj Magnolia / café Lido. Pas besoin de réserver gastronomique.
 
 | Si… | Alors… |
 | --- | --- |
-| PR8 fermé / tempête mar 8 | Musées / Caniçal ; PR8 **jeudi** si créneau déplaçable (pas mercredi) |
+| PR8 fermé / tempête lun 7 | Musées / Caniçal ; PR8 **mardi** ou **jeudi** si créneau déplaçable (pas mercredi) |
 | PR9 fermé / pluie mer 9 | Câmara + Girão mercredi ; PR9 ne va **pas** sur le 12–13 |
-| Monte lundi sauté | Le coller **jeudi** si pas Girão |
+| Monte mardi sauté | Le coller **jeudi** si pas Girão |
 | Jambes mortes jeudi | Formosa + pack. Point. |
 
 Suite : [traversee.md](traversee.md) (11–16) · [porto-moniz.md](porto-moniz.md) (16–17) · [depart.md](depart.md) (19).

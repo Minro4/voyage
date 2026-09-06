@@ -1,6 +1,6 @@
 # PR8 — Vereda da Ponta de São Lourenço
 
-Semaine Funchal, **mardi 8 septembre** (avant la traverse). SIMplifica **€4,50**/pers. — **à booker** (PR1 est déjà fait).
+Semaine Funchal, **lundi 7 septembre** (figé le 6 sep — avant la traverse). SIMplifica **€4,50**/pers. — **à booker** (PR1 est déjà fait).
 
 Trace visée : [AllTrails — Miradouro de São Lourenço · Cais do Sardinha · Pico do Furado](https://www.alltrails.com/trail/portugal/madeira--2/miradouro-de-sao-lourenco-cais-do-sardinha-pico-do-furado)
 
@@ -24,6 +24,6 @@ Créneau SIMplifica **après** l’arrivée du 702 (~09:30–11:00). Noter le **
 
 ## Météo
 
-Arêtes exposées : vent fort / pluie = **on n’y va pas**. Reporter au mercredi **seulement si** le créneau peut bouger (souvent taxe perdue). Repli : musées / Câmara.
+Arêtes exposées : vent fort / pluie = **on n’y va pas**. Reporter au **mardi** (journée ville) ou au **jeudi** **seulement si** le créneau peut bouger (souvent taxe perdue). **Pas mercredi** (PR9). Repli : musées / Câmara.
 
 Détail journée : [../jours/funchal.md](../jours/funchal.md).

@@ -28,7 +28,7 @@ Pas de SIMplifica : chemins **non classés** (Larano, Fio / descente Fanal→Ch�
 | PR | Date | Taxe | Pourquoi | Créneau |
 | --- | --- | --- | --- | --- |
 | **PR1 complet** (*incluindo PR 1.1 et 1.2*) | **dim 13** | €10,50 | **Déjà réservé.** Dernier jour ouvert (fermé 14–17 et 21–22). Sens unique. Descente **PR1.2** Achada puis taxi Santana | Créneau déjà pris — QR hors-ligne |
-| **PR8** São Lourenço | **mar 8** | €4,50 | Semaine Funchal. [AllTrails Pico do Furado](https://www.alltrails.com/trail/portugal/madeira--2/miradouro-de-sao-lourenco-cais-do-sardinha-pico-do-furado). **Pas** sur la GR1 | Après le bus **702** à Baía d’Abra (~09:30–11:00) |
+| **PR8** São Lourenço | **lun 7** | €4,50 | Semaine Funchal. [AllTrails Pico do Furado](https://www.alltrails.com/trail/portugal/madeira--2/miradouro-de-sao-lourenco-cais-do-sardinha-pico-do-furado). **Pas** sur la GR1 | Après le bus **702** à Baía d’Abra (~09:30–11:00) |
 | **PR9** Caldeirão Verde | **mer 9** | €4,50 | Semaine Funchal. Queimadas. **À booker.** | Après 801 + taxi (~10:00–10:30) |
 | **PR10** Furado | **sam 12** | €4,50 | PdC → Portela → Ribeiro Frio → 850. Réouvert 14 jul. 2026 | Matin 08:00–10:00. Entrée souvent **Portela** (sens inverse du panneau) |
 | **PR6** 25 Fontes | **lun 14** | €4,50 | Après le taxi plateau | **Après-midi 13:00–15:30**. IFCN : aller levada, **retour Bypass** |
@@ -66,7 +66,7 @@ Le GR1 n’est pas un titre IFCN. Dès qu’un **PR classé** est sur la trace :
 
 ## Funchal 7–10
 
-**Réserver PR8 (mar 8) et PR9 (mer 9).** Skip un 2e PR1 (déjà booké le 13). PR6 / PR10 restent sur la traverse. Levadas non classées (Tornos…) sans créneau. Cabo Girão = **autre** ticket SIMplifica €5, pas un PR — coller jeudi si PR9 a mangé le mercredi.
+**Réserver PR8 (lun 7) et PR9 (mer 9).** Skip un 2e PR1 (déjà booké le 13). PR6 / PR10 restent sur la traverse. Levadas non classées (Tornos…) sans créneau. Cabo Girão = **autre** ticket SIMplifica €5, pas un PR — coller jeudi si PR9 a mangé le mercredi. Mardi 8 = ville (tampon).
 
 ## Pass 7 jours : non
 
@@ -89,7 +89,7 @@ Langue souvent PT. Contacts : SIMplifica **800 299 090** / WhatsApp **+351 926 1
 ## Ordre (argent perdu si tu annules)
 
 1. **PR1 complet 13 sep — déjà réservé**
-2. **Maintenant — PR8 mar 8 + PR9 mer 9** (se vendent)
+2. **Maintenant — PR8 lun 7 + PR9 mer 9** (se vendent)
 3. **PR6 14 après-midi**
 4. **PR10 12 matin**
 5. PR du GPX (17, 13 si vraiment Assobiadores, 14, 15, 6.1…) **après** lecture Traileasy

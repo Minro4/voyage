@@ -6,7 +6,7 @@ Relire le PDF **la veille**. Certaines courses CAM sont scolaires.
 | --- | --- | --- | --- |
 | 6 | FNC → Lido | **500** Aerobus | voir [arrivee.md](arrivee.md) |
 | 6–10 | Magnolia ↔ Centro | **008** | [PDF 008](https://siga.madeira.gov.pt/public/storage/horarios_pdf/3CA4A08D-34DD-4EA6-BBA3-13C7E3D24B8A.pdf) |
-| 8 | Funchal → PR8 | 008 + **701** + **702** Baía d’Abra | [pr8.md](../sentiers/pr8.md) · [702](https://siga.madeira.gov.pt/horarios/4007) |
+| 7 | Funchal → PR8 | 008 + **701** + **702** Baía d’Abra | [pr8.md](../sentiers/pr8.md) · [702](https://siga.madeira.gov.pt/horarios/4007) |
 | 9 | Funchal → PR9 | **801** → Santana + taxi Queimadas | [pr9.md](../sentiers/pr9.md) · [réseau Santana](https://siga.madeira.gov.pt/horarios/5000) |
 | 11 | Magnolia → Centro → Machico | 008 puis **701** (ex-23) | [701](https://siga.madeira.gov.pt/horarios/4001). Semaine Funchal **08:30, 10:30, 16:20**. Prendre **08:30**. |
 | 11 repli | Funchal → PdC | **826** (ex-53) Funchal 10:00 · **827** (ex-208) 10:30 | [826](https://siga.madeira.gov.pt/horarios/4003) · [827](https://siga.madeira.gov.pt/horarios/4019) |
