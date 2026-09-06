@@ -16,7 +16,7 @@ Dimanche 6 = arrivée. Lundi 7 = PR8. Mercredi 9 = PR9.
 ## Quoi viser (ordre)
 
 1. **Baleines / dauphins** — le classique Madère que la GR1 ne donne pas. 2,5–3 h, marina, jambes zéro.
-2. **Garajau (scuba)** — mérous. Toi OW + frère baptême. Détail : [funchal.md](funchal.md) mar 8.
+2. **Garajau (scuba)** — mérous. Toi **ReActivate** (OW il y a 1 an) + frère baptême. Détail : [funchal.md](funchal.md) mar 8.
 3. **Canyoning niveau 1** — l’autre « wow » terrestre (rappel + vasques). Pas une levada.
 4. **Desertas** — la plus grosse journée bateau (île déserte, peut-être phoque moine). Mange tout le mardi.
 
@@ -24,9 +24,19 @@ Dimanche 6 = arrivée. Lundi 7 = PR8. Mercredi 9 = PR9.
 
 ## Mardi 8 — choisir **une**
 
-### A. Garajau (déjà noté)
+### A. Garajau — ReActivate + baptême
 
-Fun dive OW + Discover Scuba. Même réserve, pas buddy. [Azul](https://www.azuldiving.com/) WhatsApp **+351 914 256 575**. ~€79 baptême + ~€70–120 OW.
+Dernière plongée = cours OW **il y a 1 an**. Les sorties bateau « certified » (2 plongées Garajau) demandent souvent une plongée < 12 mois **et** 6 plongées loguées — OW seul = 4. Donc **pas** le fun dive bateau.
+
+Même matin, même centre, **pas** buddy :
+
+| | Toi | Frère |
+| --- | --- | --- |
+| Produit | [PADI ReActivate](https://www.azuldiving.com/refresh-course) | Discover Scuba |
+| Inclus | Briefing + piscine + **1 plongée mer** + kit | Idem, max 12 m |
+| Prix | **€79** (eLearning +€45 optionnel) | **€79** |
+
+[Azul](https://www.azuldiving.com/) WhatsApp **+351 914 256 575**. Dire clairement le trou d’un an. Demander la mer à **Garajau** si la mer le permet (sinon house reef Funchal — toujours ok pour un retour).
 
 ### B. Observation cétacés (3 h)
 
@@ -99,7 +109,7 @@ Mange le mardi entier. Remplace un trip baleines séparé (la traversée *est* l
 
 | Jour | Activité | € × 2 ≈ |
 | --- | --- | --- |
-| **Mar 8** | **Garajau** (plan A) **ou** canyon L1 si pas d’eau | ~160–200 · canyon ~130–140 |
+| **Mar 8** | **ReActivate + baptême** (plan A) **ou** canyon L1 | **€158** · canyon ~130–140 |
 | **Jeu 10 matin** | **Baleines** catamaran 3 h | **€80** |
 | **Ven 18** | Monte (si sauté) **ou** sunset | €32–44 téléphérique · sunset €80–110 |
 
