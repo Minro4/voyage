@@ -11,7 +11,7 @@ Dossier opérationnel. **Tu paies les réservations ensuite** — ici c’est l�
 3. [hebergement.md](hebergement.md) — où dormir (Funchal déjà payé)
 4. [sentiers/](sentiers/) — SIMplifica, PR1 (fait), **PR8**, **PR9**
 5. [transport/](transport/) — bus, taxis, samedi 19
-6. [jours/](jours/) — Funchal, traversée, Porto Moniz, départ
+6. [jours/](jours/) — Funchal, [jours libres](jours/jours-libres.md), traversée, Porto Moniz, départ
 7. [kit/](kit/) — budget, sac, contacts
 
 ## Statut (22 août 2026)

@@ -48,9 +48,9 @@ Péninsule sèche, vent, **zéro ombre**. Lendemain d’arrivée : **701 08:30**
 
 ---
 
-## Mardi 8 — centre et vieille ville
+## Mardi 8 — centre et vieille ville · **ou** une grosse activité
 
-Journée urbaine. Monte **si jambes OK** après PR8 (sinon Monte = jeudi).
+Journée urbaine **ou** le gros bloc (scuba / canyon / Desertas / baleines). Menu et prix : [jours-libres.md](jours-libres.md). Monte **si jambes OK** après PR8 et si vous restez en ville (sinon Monte = jeudi ou ven 18).
 
 | | |
 | --- | --- |
@@ -90,7 +90,7 @@ Journée entière, nord. Départ Queimadas. Tunnels = **frontale**. **Booker SIM
 
 ## Jeudi 10 — jour léger (avant la traverse)
 
-Checkout demain **11, 701 08:30**. Lessive, sac, courses. **Rien de dur.**
+Checkout demain **11, 701 08:30**. Lessive, sac, courses. **Rien de dur.** Grosse option légère : **baleines 3 h** le matin — [jours-libres.md](jours-libres.md).
 
 | | |
 | --- | --- |
@@ -154,7 +154,7 @@ Checkout PM **jeu 17**. Nuits **17–18**, checkout **sam 19 matin**. **Pas Magn
 
 **Jeu 17.** Arrivée bus, check-in, douche, resto. Rien de dur.
 
-**Ven 18.** Dernière journée : Monte si sauté, Formosa, pack. **Pas PR1** (fermé 14–17, déjà fait le 13).
+**Ven 18.** Dernière journée : Monte si sauté, Formosa, pack, **ou** baleines / sunset / parapente — [jours-libres.md](jours-libres.md). **Pas PR1** (fermé 14–17, déjà fait le 13). **Pas de scuba.**
 
 **Sam 19.** Checkout → Aerobus 500 / taxi → FNC.
 
