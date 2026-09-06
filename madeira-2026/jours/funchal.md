@@ -14,6 +14,8 @@ Navette locale : **008** aux arrêts *R DR Pita–Clube Ténis / Quinta Magnóli
 
 Vol + jet lag. Objectif : clés, eau, dodo. Pas de sentier.
 
+**Avec la voiture, check-in ~15:00 :** deux scripts (photos + cartes) dans [dimanche-6.md](dimanche-6.md) — **A** Jardim Botânico, **B** côte (Barcelos → Câmara → Girão).
+
 | | |
 | --- | --- |
 | **SIMplifica** | Non |
