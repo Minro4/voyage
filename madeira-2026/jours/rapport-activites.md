@@ -121,6 +121,21 @@ Texte à coller (Harmony ou MAK) :
 
 > Hi — 2 adults, beginner canyoning L1 Ribeira das Cales, **Tuesday 8 September 2026**. Pickup **Magnolia Residence, Beco da Quinta da Fe 24, Lido / Funchal**. Hotel pickup included? Confirm €65/person all-in (boots + photos)? Heights / weights / shoe sizes on request. WhatsApp ok.
 
+### Pas tous au même endroit
+
+L’île a **des dizaines de canyons**. Les « Level 1 / 2 / 3 » des opérateurs sont des **produits commerciaux** : chaque niveau = **une rivière différente**. Les trois devis L1 d’hier (Harmony, MAK, Lux) = **le même canyon** (Ribeira das Cales). Les différences étaient le package (Adidas, photos), pas le lieu.
+
+| Niveau (Harmony / MAK) | Canyon | Où | Différence | Prix typique | Fiches |
+| --- | --- | --- | --- | --- | --- |
+| **L1 — celui de mardi** | **Ribeira das Cales** | Parc écologique de Funchal, départ Chão da Lagoa (près d’Areeiro) | Initiation : ~5 rappels, max **12–15 m**, sauts 1–2 m optionnels, ~2 h dans l’eau | **€65** | [Harmony L1](https://www.madeira-harmonyinnature.com/en/canyoning/level-1.html) · [MAK Cales](https://www.madeira-adventure-kingdom.com/canyoning/canyoning-madeira-island/) · [Lux](https://luxmadeira.com/tours/canyoning/) · [Visit Madeira](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/canyoning/ribeira-das-cales/) |
+| L1 hiver (repli) | **Ribeiro Frio** | Nord, forêt Laurissilva (près PR10) | Aussi débutant ; MAK = **saison pluie seulement**. Go Canyoning peut y envoyer un L1 selon la météo | €65–70 | [MAK Ribeiro Frio](https://www.madeira-adventure-kingdom.com/canyoning/canyoning-in-ribeiro-frio/) · [Visit Madeira](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/canyoning/ribeiro-frio/) · [Go Canyoning L1](https://www.gocanyoningmadeira.com/canyoning-level-1) (Cales **ou** Frio **ou** Camacha) |
+| **L2** | **Ribeira do Cidrão** | Curral das Freiras (Nun’s Valley) | Plus de montagnes : **8 rappels**, max **16–18 m**, toboggan 6 m. Même créneau 4–5 h. Harmony le vend **aussi €65** | €65–85 | [Harmony L2](https://www.madeira-harmonyinnature.com/en/canyoning/level-2.html) · [MAK Cidrão](https://www.madeira-adventure-kingdom.com/canyoning/canyoning-in-ribeira-do-cidrao/) |
+| **L2+** | **Ribeira do Lajeado** | Paul da Serra, **au-dessus du Rabaçal** (Levada do Alecrim) | Plus long, vasques, rappel **~25 m** (commerciaux). L’eau **peut tarir en été**. Pas un premier canyon | **€95** | [Harmony L2+](https://www.madeira-harmonyinnature.com/en/canyoning/level-2plus.html) · [MAK Lajeado](https://www.madeira-adventure-kingdom.com/canyoning/canyoning-in-ribeira-do-lajeado/) · [Visit Madeira](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/canyoning/ribeira-do-lajeado/) |
+| **L3** | **Ribeira Funda** | Côte nord, Seixal / Porto Moniz | **10 rappels**, le plus haut **55–60 m**, sortie mer. Il faut déjà avoir fait du canyon | **€120** | [Harmony L3](https://www.madeira-harmonyinnature.com/en/canyoning/level-3.html) · [MAK Funda](https://www.madeira-adventure-kingdom.com/canyoning/canyoning-in-ribeira-funda/) · [Visit Madeira](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/canyoning/ribeira-funda/) |
+| L4 | Hortelã, Vimieiro, etc. | Nord / Laurissilva | Technique, 1 h+ d’approche, rappels ~60 m+. Preuve d’expérience | sur devis | [Harmony L4](https://www.madeira-harmonyinnature.com/en/canyoning/level-4.html) · [liste Harmony](https://www.madeira-harmonyinnature.com/en/canyoning.html) |
+
+Pour **mardi** : rester **L1 Cales** (premier canyon, pickup Lido, rentrée ~13 h, PR9 le lendemain). **L2 Cidrão** = le seul upgrade raisonnable (même prix chez Harmony, vues Curral) — seulement si vous voulez plus de rappels dès la première fois. Pas Lajeado (vous serez au Rabaçal à pied plus tard) ni Funda (60 m).
+
 ---
 
 ## 2. Plongée — ReActivate + baptême
